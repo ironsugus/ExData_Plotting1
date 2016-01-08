@@ -4,9 +4,7 @@ Hi fellow
 
 This is my submission 
 
-### Get the Data
-This source retrieves the data and is sourced by each plot script.
-[getData.R source](getData.R)
+Please install install.packages("sqldf")
 
 ### Plot 1 
 [plot1.R source](plot1.R)
