@@ -5,7 +5,7 @@ Hi fellow
 This is my submission 
 
 ### Get the Data
-This source retrieves the data.
+This source retrieves the data and is sourced by each plot script.
 [getData.R source](getData.R)
 
 ### Plot 1 
